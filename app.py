@@ -9,7 +9,7 @@ import uuid
 FTP_HOST = 'http://www.nitrodata.com.mx'
 FTP_PORT = 21  # Puerto por defecto para SFTP
 FTP_USER = 'ocejudo@nitrodata.com.mx'
-FTP_PASS = 'OrionPaola2%$'
+FTP_PASS = '***********'
 FTP_DIR = '/home/nitrodat/domains/nitrodata.com.mx'  # Directorio en el servidor donde se guardará el archivo
 
 # Inicializa TTS con un modelo preentrenado en español
